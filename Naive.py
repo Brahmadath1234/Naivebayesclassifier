@@ -5,7 +5,7 @@ from sklearn.metrics import accuracy_score
 
 # Step 1: Load the data from a CSV file
 # Replace 'your_data.csv' with your actual CSV file path.
-data = pd.read_csv('your_data.csv')
+data = pd.read_csv('Iris_Data.csv')
 
 # Step 2: Preprocess the data
 # Assuming the last column is the target variable and the rest are features.
